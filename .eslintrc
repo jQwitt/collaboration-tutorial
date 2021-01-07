@@ -1,0 +1,16 @@
+{
+    "extends": ["airbnb", "prettier", "prettier/react"],
+    "plugins": ["prettier", "react"],
+    "env": {
+        "browser": true,
+        "node": true,
+        "jest": true
+    },
+    "rules": {
+        "prettier/prettier": ["error"],
+        "jsx-a11y/anchor-is-valid": "error",
+        "react/jsx-filename-extension": 0,
+        "import/no-named-as-default": 0,
+        "import/no-named-as-default-member": 0
+    }
+}
