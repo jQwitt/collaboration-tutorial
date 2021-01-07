@@ -4,8 +4,8 @@ Using create-react-app, we will be walking through the basic steps of contributi
 
 ### Overview
 
-1.) Cloning, adding remotes, and pushing to them
-2.) Best practices: Rebasing and squashing before merging
+1.) Cloning, adding remotes, and pushing to them\
+2.) Best practices: Rebasing and squashing before merging\
 3.) Reviewing Pull Requests 
 
 Bonus - Pull request template. 
